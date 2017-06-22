@@ -6,3 +6,7 @@ Codes written while learning new things
  1. [NodeJS](https://github.com/manparvesh/learning/1.%20NodeJS) (20 June, 2017)
  2. [Maven](https://github.com/manparvesh/learning/2.%20Maven) (21 June, 2017)
  
+## Tutorial resources
+ - [Scotch.io](https://scotch.io/)
+ - [Tutorials point](http://www.tutorialspoint.com/)
+ - [Google Codelabs](https://codelabs.developers.google.com/)
