@@ -4,4 +4,5 @@ Codes written while learning new things
 
 ## Topics studied
  1. [NodeJS](https://github.com/manparvesh/learning/1.%20NodeJS) (20 June, 2017)
+ 2. [Maven](https://github.com/manparvesh/learning/2.%20Maven) (21 June, 2017)
  
