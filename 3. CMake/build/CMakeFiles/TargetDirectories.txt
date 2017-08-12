@@ -1,0 +1,3 @@
+/home/mp/Desktop/github_repos/learning/3. CMake/build/CMakeFiles/edit_cache.dir
+/home/mp/Desktop/github_repos/learning/3. CMake/build/CMakeFiles/Fibo.dir
+/home/mp/Desktop/github_repos/learning/3. CMake/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/Fibo.dir/fibo.cpp.o  -o Fibo -rdynamic 

@@ -1,0 +1,3 @@
+/home/mp/Desktop/github_repos/learning/4. OpenCV basic/build/CMakeFiles/edit_cache.dir
+/home/mp/Desktop/github_repos/learning/4. OpenCV basic/build/CMakeFiles/DisplayImage.dir
+/home/mp/Desktop/github_repos/learning/4. OpenCV basic/build/CMakeFiles/rebuild_cache.dir
