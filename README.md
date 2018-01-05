@@ -1,6 +1,9 @@
 # learning
 Keeping track of things I have learned in the past.
 
+---
+Note: [Trello board to track my learning progress](https://trello.com/b/LnyxEDdy/learning)
+
 ## Topics studied from Tutorials
  1. [NodeJS](https://github.com/manparvesh/learning/1.%20NodeJS)
  2. [Maven](https://github.com/manparvesh/learning/2.%20Maven)
