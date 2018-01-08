@@ -2,7 +2,9 @@
 Keeping track of things I have learned in the past.
 
 ---
-Note: [Trello board to track my learning progress](https://trello.com/b/LnyxEDdy/learning)
+Note: Trello board to track my learning progress:
+
+<iframe src="https://trello.com/embed/board?id=LnyxEDdy&amp;targetOrigin=null&amp;secret=hRDXIaF2UbQIrNkoxTdTVnC0&amp;" style="border: medium none; overflow: hidden;" class="" width="248" height="185"></iframe>
 
 ## Topics studied from Tutorials
  1. [NodeJS](https://github.com/manparvesh/learning/1.%20NodeJS)
